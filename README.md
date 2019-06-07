@@ -1,2 +1,2 @@
 # ab-Test
-Notes for ab test
+Notes for ab test course on Udacity
